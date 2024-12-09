@@ -20,7 +20,7 @@ SGDC, MNB, BNB, LR, DL
 ---------
 
 ### Codigo
----------
+https://colab.research.google.com/github/juanFeRoz/prediccion-genero-canciones-con-letra/blob/main/prediccion-genero-canciones.ipynb
 
 ### Repositorio
 https://github.com/juanFeRoz/prediccion-genero-canciones-con-letra/
