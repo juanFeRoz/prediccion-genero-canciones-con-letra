@@ -3,7 +3,7 @@
 ![El texto del párrafo](https://github.com/user-attachments/assets/bfaa77a0-1e38-402b-8edd-2d19e5d8b2b4)
 
 ## Autores
-Juan Felipe Rojas de la Hoz, Diego Arevalo
+Juan Felipe Rojas de la Hoz, Diego Alejandro Arevalo Quintero
 
 ## Objetivo
 Identificar el genero de las canciones usando su letra
