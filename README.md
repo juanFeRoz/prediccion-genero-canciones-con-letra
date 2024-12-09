@@ -18,8 +18,12 @@ SGDC, MNB, BNB, LR, DL
 
 ### Video
 https://youtu.be/W_0Ur_CK7lI
+
 ### Codigo
 https://colab.research.google.com/github/juanFeRoz/prediccion-genero-canciones-con-letra/blob/main/prediccion-genero-canciones.ipynb
+
+### Presentación 
+https://www.canva.com/design/DAGY1OFDJas/IUWnoCG5NWOWlDjlR_ey7Q/view?utm_content=DAGY1OFDJas&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ### Repositorio
 https://github.com/juanFeRoz/prediccion-genero-canciones-con-letra/
